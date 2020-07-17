@@ -1,0 +1,26 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(133, 78, 105) !important;
+    color: white;
+    text-align: center;
+ }
+
+.navbar{
+    background-color: rgb(133, 78, 105) !important;
+}
+.navbar .navbar-brand{
+    color: #FFF;
+}
+.navbar .navbar-brand:hover{
+    color: rgb(92, 241, 46) !important;
+}
+.navbar .navbar-nav li a{
+    color: #FFF !important;
+} 
+
+.navbar .navbar-nav li a:hover{
+    color: rgb(92, 241, 46) !important;
+} 
